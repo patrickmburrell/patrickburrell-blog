@@ -6,15 +6,11 @@
     xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <sitemap>
-  <loc>https://www.patrickburrell.com/galleries/rss.xml</loc>
-  <lastmod>2020-09-29T01:08:00Z</lastmod>
- </sitemap>
- <sitemap>
   <loc>https://www.patrickburrell.com/rss.xml</loc>
-  <lastmod>2020-09-29T01:08:00Z</lastmod>
+  <lastmod>2021-01-01T20:10:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://www.patrickburrell.com/sitemap.xml</loc>
-  <lastmod>2020-09-29T01:08:00Z</lastmod>
+  <lastmod>2021-01-01T20:10:00Z</lastmod>
  </sitemap>
 </sitemapindex>
