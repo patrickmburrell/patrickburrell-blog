@@ -890,3 +890,21 @@ html[dir="rtl"] body {
     text-align: right;
 }
 
+
+/* a {
+    color: #1F6EAF;
+    text-decoration: none;
+    background-color: transparent;
+}
+
+a:hover {
+    color: #237CC5;
+    text-decoration: underline;
+} */
+
+.navbar-brand {
+    font-size: xx-large;
+    align-items: center;
+    display: flex;
+}
+
