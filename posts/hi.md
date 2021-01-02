@@ -9,6 +9,4 @@
 .. type: text
 -->
 
-# Hi!
-
 My name is Patrick. I'm kicking off yet another blog in my attempt to record some projects, travels, and thoughts.
